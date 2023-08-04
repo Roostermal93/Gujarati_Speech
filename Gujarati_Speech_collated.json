@@ -1,1 +1,56 @@
-ew0KICAgICJjb3VudCI6IDcsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI4OGI4YzRmZi00MzU0LTRhZjctYjg4NS1jNWVkMzdkNjA0OGUiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJHdWphcmF0aSIsDQogICAgICAgICAgICAidHlwZSI6ICJTcGVlY2giLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvU3BlZWNoL0d1amFyYXRpLzg4YjhjNGZmLTQzNTQtNGFmNy1iODg1LWM1ZWQzN2Q2MDQ4ZS84OGI4YzRmZi00MzU0LTRhZjctYjg4NS1jNWVkMzdkNjA0OGUubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiOTA5NmMyNDctNzNjMy00MjhjLWI1ZDUtM2M0MDc2NGQ1YzkzIiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiR3VqYXJhdGkiLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9HdWphcmF0aS85MDk2YzI0Ny03M2MzLTQyOGMtYjVkNS0zYzQwNzY0ZDVjOTMvOTA5NmMyNDctNzNjMy00MjhjLWI1ZDUtM2M0MDc2NGQ1YzkzLm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImJkOGMzYTRmLTVmYTgtNGY3Mi05YThhLThjNjFjMmE1NGZhYSIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkd1amFyYXRpIiwNCiAgICAgICAgICAgICJ0eXBlIjogIlNwZWVjaCIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9TcGVlY2gvR3VqYXJhdGkvYmQ4YzNhNGYtNWZhOC00ZjcyLTlhOGEtOGM2MWMyYTU0ZmFhL2JkOGMzYTRmLTVmYTgtNGY3Mi05YThhLThjNjFjMmE1NGZhYS5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJlNTQwMWEyZC0xNjMxLTQ5YzItYWVjMC0wZjAzYjhmODQ1ZGMiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJHdWphcmF0aSIsDQogICAgICAgICAgICAidHlwZSI6ICJTcGVlY2giLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvU3BlZWNoL0d1amFyYXRpL2U1NDAxYTJkLTE2MzEtNDljMi1hZWMwLTBmMDNiOGY4NDVkYy9lNTQwMWEyZC0xNjMxLTQ5YzItYWVjMC0wZjAzYjhmODQ1ZGMubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiNTNlZTJmNDgtZjcxOC00N2E3LWE4YzEtOTY5OWIwYzU4ZWM3IiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiR3VqYXJhdGkiLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9HdWphcmF0aS81M2VlMmY0OC1mNzE4LTQ3YTctYThjMS05Njk5YjBjNThlYzcvNTNlZTJmNDgtZjcxOC00N2E3LWE4YzEtOTY5OWIwYzU4ZWM3Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImM5MzM2ZTgyLWQyZGEtNDkyZi05NGFlLTA5YzkzMTdiY2JjZCIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkd1amFyYXRpIiwNCiAgICAgICAgICAgICJ0eXBlIjogIlNwZWVjaCIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9TcGVlY2gvR3VqYXJhdGkvYzkzMzZlODItZDJkYS00OTJmLTk0YWUtMDljOTMxN2JjYmNkL2M5MzM2ZTgyLWQyZGEtNDkyZi05NGFlLTA5YzkzMTdiY2JjZC5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI1OGZiOTZlMi05MGFkLTQzNjAtYjk1MS1kNzRhMjZlZDk5NDMiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJHdWphcmF0aSIsDQogICAgICAgICAgICAidHlwZSI6ICJTcGVlY2giLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvU3BlZWNoL0d1amFyYXRpLzU4ZmI5NmUyLTkwYWQtNDM2MC1iOTUxLWQ3NGEyNmVkOTk0My81OGZiOTZlMi05MGFkLTQzNjAtYjk1MS1kNzRhMjZlZDk5NDMubXA0Ig0KICAgICAgICB9DQogICAgXQ0KfQ==
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "88b8c4ff-4354-4af7-b885-c5ed37d6048e",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/88b8c4ff-4354-4af7-b885-c5ed37d6048e/88b8c4ff-4354-4af7-b885-c5ed37d6048e_gu_Male.mp4"
+        },
+        {
+            "id": "9096c247-73c3-428c-b5d5-3c40764d5c93",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/9096c247-73c3-428c-b5d5-3c40764d5c93/9096c247-73c3-428c-b5d5-3c40764d5c93_gu_Male.mp4"
+        },
+        {
+            "id": "bd8c3a4f-5fa8-4f72-9a8a-8c61c2a54faa",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/bd8c3a4f-5fa8-4f72-9a8a-8c61c2a54faa/bd8c3a4f-5fa8-4f72-9a8a-8c61c2a54faa_gu_Female.mp4"
+        },
+        {
+            "id": "e5401a2d-1631-49c2-aec0-0f03b8f845dc",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/e5401a2d-1631-49c2-aec0-0f03b8f845dc/e5401a2d-1631-49c2-aec0-0f03b8f845dc_gu_Female.mp4"
+        },
+        {
+            "id": "53ee2f48-f718-47a7-a8c1-9699b0c58ec7",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/53ee2f48-f718-47a7-a8c1-9699b0c58ec7/53ee2f48-f718-47a7-a8c1-9699b0c58ec7_gu_Female.mp4"
+        },
+        {
+            "id": "c9336e82-d2da-492f-94ae-09c9317bcbcd",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/c9336e82-d2da-492f-94ae-09c9317bcbcd/c9336e82-d2da-492f-94ae-09c9317bcbcd_gu_Female.mp4"
+        },
+        {
+            "id": "58fb96e2-90ad-4360-b951-d74a26ed9943",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Gujarati/Gujarati_Speech/58fb96e2-90ad-4360-b951-d74a26ed9943/58fb96e2-90ad-4360-b951-d74a26ed9943_gu_Male.mp4"
+        }
+    ]
+}
