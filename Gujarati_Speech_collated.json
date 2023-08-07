@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 10,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Gujarati/88b8c4ff-4354-4af7-b885-c5ed37d6048e_gu_Male.mp4"
+        },
+        {
+            "id": "8d712d6d-c21a-4c30-b512-c11a674e70ae",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Gujarati/8d712d6d-c21a-4c30-b512-c11a674e70ae_gu_Female.mp4"
         },
         {
             "id": "9096c247-73c3-428c-b5d5-3c40764d5c93",
@@ -39,11 +46,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Gujarati/53ee2f48-f718-47a7-a8c1-9699b0c58ec7_gu_Female.mp4"
         },
         {
+            "id": "e0ec53f2-93a4-4f5f-99d1-d484fc40e46d",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Gujarati/e0ec53f2-93a4-4f5f-99d1-d484fc40e46d_gu_Female.mp4"
+        },
+        {
             "id": "c9336e82-d2da-492f-94ae-09c9317bcbcd",
             "collectionId": "Gujarati",
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Gujarati/c9336e82-d2da-492f-94ae-09c9317bcbcd_gu_Female.mp4"
+        },
+        {
+            "id": "e654aaf0-d160-4461-bbcb-03dae641a85b",
+            "collectionId": "Gujarati",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Gujarati/e654aaf0-d160-4461-bbcb-03dae641a85b_gu_Male.mp4"
         },
         {
             "id": "58fb96e2-90ad-4360-b951-d74a26ed9943",
